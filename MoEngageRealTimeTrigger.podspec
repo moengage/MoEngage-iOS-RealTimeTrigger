@@ -17,8 +17,8 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
 
   s.source       = { 
-                    :git => 'https://github.com/moengage/MoEngage-iOS-SDK.git', 
-                    :tag => 'cards-' + s.version.to_s 
+                    :git => 'https://github.com/moengage/MoEngage-iOS-RealTimeTrigger.git', 
+                    :tag => 'rtt-' + s.version.to_s 
                     }
                     
   s.ios.vendored_frameworks = 'Frameworks/MoEngageRealTimeTrigger.xcframework'
