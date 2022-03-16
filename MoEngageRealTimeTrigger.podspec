@@ -25,5 +25,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit', 'ImageIO'
   s.dependency 'MoEngage-iOS-SDK', '>= 8.0.0', '< 8.1.0'
-  s.dependency 'MORichNotification', '>= 6.0.0', '< 6.1.0'
+  s.dependency 'MoEngageRichNotification', '>= 6.0.0', '< 6.1.0'
 end
