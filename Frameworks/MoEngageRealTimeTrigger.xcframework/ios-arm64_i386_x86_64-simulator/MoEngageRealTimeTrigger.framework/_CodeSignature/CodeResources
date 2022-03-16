@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		PGyo2XQK8KFcqePbSvIqsQD0dU0=
+		jcDeVWLhjwNQk/XR78lwP65GM4I=
 		</data>
 		<key>Headers/MoEngageRealTimeTrigger-Swift.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xCWzmGcYq4GLM5XvPqbdWW5wwFo=
+		3hcRlqgXfMPa0LpNAc3+WNA70fE=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		xCWzmGcYq4GLM5XvPqbdWW5wwFo=
+		3hcRlqgXfMPa0LpNAc3+WNA70fE=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sosPF4GHTrAQ6M9+MtoPSTV0kC8=
+		6f4KBx1FGmWtlokdc/SNM0VCwX4=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386.swiftmodule</key>
 		<data>
-		sosPF4GHTrAQ6M9+MtoPSTV0kC8=
+		6f4KBx1FGmWtlokdc/SNM0VCwX4=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Yl/qNbYpLI7uNbG/lCGffG80yUE=
+		IxtJxuz+DZgXrn7dfLhQk3pG3qA=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Yl/qNbYpLI7uNbG/lCGffG80yUE=
+		IxtJxuz+DZgXrn7dfLhQk3pG3qA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,11 +107,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PGyo2XQK8KFcqePbSvIqsQD0dU0=
+			jcDeVWLhjwNQk/XR78lwP65GM4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			YpaIB2q4MTrgdMmTF4QTiuycggg5Hsg/OAxa8H5d7kY=
+			KqNhWVY1Ay2As+zq0+RpJRM3nQXOR396HkqqzUlHhd4=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRealTimeTrigger-Swift.h</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xCWzmGcYq4GLM5XvPqbdWW5wwFo=
+			3hcRlqgXfMPa0LpNAc3+WNA70fE=
 			</data>
 			<key>hash2</key>
 			<data>
-			4/WB/lM6AIWXR71i6OmSiQUuwbWLxtfcQ9gdLs5ugl8=
+			PtXV4aIc0BZGdH5yHtQ70rzG5y0shrb433d4RWTxeWQ=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64.swiftdoc</key>
@@ -206,11 +206,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xCWzmGcYq4GLM5XvPqbdWW5wwFo=
+			3hcRlqgXfMPa0LpNAc3+WNA70fE=
 			</data>
 			<key>hash2</key>
 			<data>
-			4/WB/lM6AIWXR71i6OmSiQUuwbWLxtfcQ9gdLs5ugl8=
+			PtXV4aIc0BZGdH5yHtQ70rzG5y0shrb433d4RWTxeWQ=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -239,11 +239,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sosPF4GHTrAQ6M9+MtoPSTV0kC8=
+			6f4KBx1FGmWtlokdc/SNM0VCwX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			m10yPPLUWantrPbq0NkytjpgO5L4PD0zDWWDPyp9OOw=
+			XCBHSoYaXlHa/XJkBX1voiQCZ8o/7IRr04Q3CJ5GKQ8=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386.swiftdoc</key>
@@ -272,11 +272,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sosPF4GHTrAQ6M9+MtoPSTV0kC8=
+			6f4KBx1FGmWtlokdc/SNM0VCwX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			m10yPPLUWantrPbq0NkytjpgO5L4PD0zDWWDPyp9OOw=
+			XCBHSoYaXlHa/XJkBX1voiQCZ8o/7IRr04Q3CJ5GKQ8=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -305,11 +305,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yl/qNbYpLI7uNbG/lCGffG80yUE=
+			IxtJxuz+DZgXrn7dfLhQk3pG3qA=
 			</data>
 			<key>hash2</key>
 			<data>
-			u8Pamuu5LZGUnqhV8Emk4HCcF+SWKSmK5BnwAUKfNeY=
+			x15zfmhBqtFeL6m5mYtZVto7sUJKbHKKqFkvYaxScg8=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64.swiftdoc</key>
@@ -338,11 +338,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yl/qNbYpLI7uNbG/lCGffG80yUE=
+			IxtJxuz+DZgXrn7dfLhQk3pG3qA=
 			</data>
 			<key>hash2</key>
 			<data>
-			u8Pamuu5LZGUnqhV8Emk4HCcF+SWKSmK5BnwAUKfNeY=
+			x15zfmhBqtFeL6m5mYtZVto7sUJKbHKKqFkvYaxScg8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

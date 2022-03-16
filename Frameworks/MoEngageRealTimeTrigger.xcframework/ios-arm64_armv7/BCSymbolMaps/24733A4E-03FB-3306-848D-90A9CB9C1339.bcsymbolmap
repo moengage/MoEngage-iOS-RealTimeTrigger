@@ -2,8 +2,8 @@ BCSymbolMap Version: 2.0
 Apple clang version 13.0.0 (clang-1300.0.29.3)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
 iPhoneOS15.0.sdk
-/Users/rakshitha/Library/Developer/Xcode/DerivedData/MoEngage-cnobpkmsqmaefpeplvsvpecxdigk/Build/Intermediates.noindex/ArchiveIntermediates/MoEngageRealTimeTrigger/IntermediateBuildFilesPath/MoEngage.build/Release-iphoneos/MoEngageRealTimeTrigger.build/DerivedSources/MoEngageRealTimeTrigger_vers.c
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage
+/Users/rakshitha/Library/Developer/Xcode/DerivedData/MoEngage-agkiherlqdmvaeakrqtfvsowceuq/Build/Intermediates.noindex/ArchiveIntermediates/MoEngageRealTimeTrigger/IntermediateBuildFilesPath/MoEngage.build/Release-iphoneos/MoEngageRealTimeTrigger.build/DerivedSources/MoEngageRealTimeTrigger_vers.c
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage
 _$s23MoEngageRealTimeTrigger06MORealdE11CoordinatorC14sharedInstance_WZ
 _$s23MoEngageRealTimeTrigger06MORealdE11CoordinatorC16getRTTController13forInstanceID19withCompletionBlockySSSg_yAA0fdE10ControllerCSgctF
 _$s23MoEngageRealTimeTrigger06MORealdE11CoordinatorC16getRTTController13forInstanceID19withCompletionBlockySSSg_yAA0fdE10ControllerCSgctFyycfU_
@@ -189,7 +189,7 @@ Apple clang version 13.0.0 (clang-1300.0.29.1)
 -private-discriminator _1846742DD4A7E3A5CD44C3C34CCA7590
 <swift-imported-modules>
 Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Controller/MORealTimeTriggerCoordinator.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Controller/MORealTimeTriggerCoordinator.swift
 $sSo17OS_dispatch_queueCMa
 <compiler-generated>
 $s23MoEngageRealTimeTrigger06MORealdE11CoordinatorC16getRTTController13forInstanceID19withCompletionBlockySSSg_yAA0fdE10ControllerCSgctFyycfU_y0aB4Core08MOConfigP0CSgcfU_yycfU_TA
@@ -268,7 +268,7 @@ $s23MoEngageRealTimeTrigger06MORealdE11CoordinatorC16getRTTController13forInstan
 getRTTController
 $s23MoEngageRealTimeTrigger06MORealdE11CoordinatorC14sharedInstance_WZ
 -private-discriminator _01DE9759F74E4B2EB451E62D3C9D8999
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Utils/MORealTimeTriggerConstants.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Utils/MORealTimeTriggerConstants.swift
 _$s23MoEngageRealTimeTrigger06MORealdE10ControllerC25getExistingCampaignIDListSaySSSgGyF
 _$s23MoEngageRealTimeTrigger06MORealdE10ControllerC05checkcdE8ForEvent8withName03andJ4AttrySS_SDySSypGtFySbcfU_
 _$ss17_dictionaryUpCastySDyq0_q1_GSDyxq_GSHRzSHR0_r2_lFSS_yps11AnyHashableVypTg5
@@ -521,7 +521,7 @@ _$s23MoEngageRealTimeTrigger06MORealdE10ControllerC23checkDNDTimeForCampaignySbA
 _$s23MoEngageRealTimeTrigger06MORealdE10ControllerC26fetchValidPayloadToDisplay11forCampaign9isOfflineAA0fdeJ0CSgAA0fdeN0C_SbtFTq
 _$s23MoEngageRealTimeTrigger06MORealdE10ControllerC026getNotificationRequestWithE0_9isOfflineSo014UNNotificationJ0CSgAA0fdE8CampaignCSg_SbtFTq
 _$s23MoEngageRealTimeTrigger06MORealdE10ControllerCN
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Controller/MORealTimeTriggerController.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Controller/MORealTimeTriggerController.swift
 objectdestroy.44
 $sSS3key_yp5valuetWOh
 $s23MoEngageRealTimeTrigger06MORealdE10ControllerC13performBgTaskyySS_SDys11AnyHashableVypGtFyycfU_yycfU0_yAGSgcfU_TA
@@ -905,7 +905,7 @@ _$s23MoEngageRealTimeTrigger06MORealD12TriggersDataC6encode4withySo7NSCoderC_tFT
 _$s23MoEngageRealTimeTrigger06MORealD12TriggersDataC5coderACSgSo7NSCoderC_tcfCTq
 _$s23MoEngageRealTimeTrigger06MORealD12TriggersDataCN
 _OBJC_CLASS_$__TtC23MoEngageRealTimeTrigger22MORealTimeTriggersData
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Model/MORealTimeTriggersData.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Model/MORealTimeTriggersData.swift
 $s23MoEngageRealTimeTrigger06MORealD12TriggersDataCMa
 $s23MoEngageRealTimeTrigger06MORealD12TriggersDataCfETo
 encode
@@ -1052,7 +1052,7 @@ _$s23MoEngageRealTimeTrigger06MORealdE8CampaignCN
 _OBJC_CLASS_$__TtC23MoEngageRealTimeTrigger25MORealTimeTriggerCampaign
 _$s23MoEngageRealTimeTrigger0cdE6StatusON
 _$s23MoEngageRealTimeTrigger0cdE4TypeON
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Model/MORealTimeTriggerCampaign.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Model/MORealTimeTriggerCampaign.swift
 getRealTimeTriggerStatusType
 getRealTimeTriggerType
 $sSSWOh
@@ -1186,7 +1186,7 @@ _$s23MoEngageRealTimeTrigger06MORealdE11DataManagerC06updatecdE19InPersistentSto
 _$s23MoEngageRealTimeTrigger06MORealdE11DataManagerC27updateUserInSegmentResponse_08responseG0SbAA0fdE8CampaignC_SDys11AnyHashableVypGtFTq
 _$s23MoEngageRealTimeTrigger06MORealdE11DataManagerCN
 -private-discriminator _37661E5F95288AFF2F79AB82FE507324
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/DataManager/MORealTimeTriggerDataManager.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/DataManager/MORealTimeTriggerDataManager.swift
 $ss16IndexingIteratorVyxGStsSt4next7ElementQzSgyFTWSaySSG_Tg5
 $ss16IndexingIteratorV4next7ElementQzSgyFSaySSG_Tg5
 $sSh6insertySb8inserted_x17memberAfterInserttxnFSS_Tg5
@@ -1532,7 +1532,7 @@ _$s23MoEngageRealTimeTrigger06MORealdE6StatusC5coderACSgSo7NSCoderC_tcfCTq
 _$s23MoEngageRealTimeTrigger06MORealdE6StatusC10campaignID6expiryACSSSg_SdtcfCTq
 _$s23MoEngageRealTimeTrigger06MORealdE6StatusCN
 _OBJC_CLASS_$__TtC23MoEngageRealTimeTrigger23MORealTimeTriggerStatus
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Model/MORealTimeTriggerStatus.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Model/MORealTimeTriggerStatus.swift
 $s23MoEngageRealTimeTrigger06MORealdE6StatusCMa
 $s23MoEngageRealTimeTrigger06MORealdE6StatusCfETo
 _$s23MoEngageRealTimeTrigger06MORealdE7PayloadC6encode4withySo7NSCoderC_tF
@@ -1582,7 +1582,7 @@ _$s23MoEngageRealTimeTrigger06MORealdE7PayloadC6encode4withySo7NSCoderC_tFTq
 _$s23MoEngageRealTimeTrigger06MORealdE7PayloadC5coderACSgSo7NSCoderC_tcfCTq
 _$s23MoEngageRealTimeTrigger06MORealdE7PayloadCN
 _OBJC_CLASS_$__TtC23MoEngageRealTimeTrigger24MORealTimeTriggerPayload
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Model/MORealTimeTriggerPayload.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Model/MORealTimeTriggerPayload.swift
 $sypSgWOc
 $ss17_NativeDictionaryV7_valuesSpyq_GvgSS_SSTg5
 $s23MoEngageRealTimeTrigger06MORealdE7PayloadCMa
@@ -1611,7 +1611,7 @@ _$s23MoEngageRealTimeTrigger06MORealdE0CMf
 _symbolic _____ 23MoEngageRealTimeTrigger06MORealdE0C
 _$s23MoEngageRealTimeTrigger06MORealdE0CMF
 -private-discriminator _E9FBA7BFD35CA4F81AF24F25D4DF3376
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/MORealTimeTrigger.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/MORealTimeTrigger.swift
 $s23MoEngageRealTimeTrigger06MORealdE0CfETo
 $s23MoEngageRealTimeTrigger06MORealdE0CMa
 $s10ObjectiveC8ObjCBoolVIeyBy_SbIegy_TRTA
@@ -1651,7 +1651,7 @@ _$s17MoEngageMessaging18MOPushTemplateTypeOSg_ADtMD
 _$s17MoEngageMessaging18MOPushTemplateTypeOACSQAAWL
 _$s23MoEngageRealTimeTrigger06MORealdE9AnalyticsCACycfCTq
 _$s23MoEngageRealTimeTrigger06MORealdE9AnalyticsCN
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Utils/MORealTimeTriggerAnalytics.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Utils/MORealTimeTriggerAnalytics.swift
 $s17MoEngageMessaging18MOPushTemplateTypeOACSQAAWl
 $s17MoEngageMessaging18MOPushTemplateTypeOSgWOc
 shouldTrackNotificationShown
@@ -1669,7 +1669,7 @@ _symbolic _____ 23MoEngageRealTimeTrigger06MORealdE5UtilsC
 _$s23MoEngageRealTimeTrigger06MORealdE5UtilsCMF
 _$s23MoEngageRealTimeTrigger06MORealdE5UtilsCACycfCTq
 _$s23MoEngageRealTimeTrigger06MORealdE5UtilsCN
-/Users/rakshitha/Desktop/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Utils/MORealTimeTriggerUtils.swift
+/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageRealTimeTrigger/Utils/MORealTimeTriggerUtils.swift
 $s23MoEngageRealTimeTrigger06MORealdE5UtilsCMa
 $s23MoEngageRealTimeTrigger06MORealdE5UtilsC27checkPushNotificationStatus17completionHandleryySbc_tFZySo22UNNotificationSettingsCcfU_
 /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.31.1/swift/stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.31.1/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.31.1/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.31.1/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.31.1/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.31.1/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_Xcode/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wsuggest-override -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -arch arm64 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/../../../Developer/AppleInternal/Library/Frameworks -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1300.0.31.1/swift/stdlib/toolchain/Compatibility51/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+nullptrToBoolConversion -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNeonImmediateRangeCheck -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+revert09abecef7bbf -mlinker-version=711 -stdlib=libc++
