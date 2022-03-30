@@ -11,12 +11,12 @@ let package = Package(
             targets: ["MoEngageRealTimeTriggerSPM","MoEngageRealTimeTrigger"]),
     ],
     dependencies: [
-        .package(name: "MoEngage-iOS-SDK",url: "https://github.com/moengage/MoEngage-iOS-SDK.git", from: "8.0.0"),
-        .package(name: "MoEngageRichNotification",url: "https://github.com/moengage/MoEngage-iOS-RichNotification.git", from: "6.0.0"),
+        .package(name: "MoEngage-iOS-SDK",url: "https://github.com/moengage/MoEngage-iOS-SDK.git", from: "8.1.0"),
+        .package(name: "MoEngageRichNotification",url: "https://github.com/moengage/MoEngage-iOS-RichNotification.git", from: "6.1.0"),
         
     ],
     targets: [
-        .target(name: "MoEngageRealTimeTriggerSPM", dependencies: ["MoEngage-iOS-SDK","MoEngageRichNotification"], path: "Sources/..",exclude: ["MoEngageRealTimeTrigger.podspec", "README.md","./Frameworks/MoEngageRealTimeTrigger.xcframework", "LICENSE","CHANGELOG.md"]),
+        .target(name: "MoEngageRealTimeTriggerSPM", dependencies: ["MoEngage-iOS-SDK","MoEngageRichNotification"], path: "Sources/..",exclude: ["MoEngageRealTimeTrigger.podspec", "README.md","./Frameworks/MoEngageRealTimeTrigger.xcframework", "LICENSE","CHANGELOG.md","Images/moe_logo_blue.png"]),
         .binaryTarget(name: "MoEngageRealTimeTrigger",path: "./Frameworks/MoEngageRealTimeTrigger.xcframework")
     ]
 )
