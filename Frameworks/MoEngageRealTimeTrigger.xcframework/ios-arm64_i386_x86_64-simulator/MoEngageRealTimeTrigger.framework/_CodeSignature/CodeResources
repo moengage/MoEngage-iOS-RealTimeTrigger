@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		PjbOyXy3oTColEOTK1OOBiJ4QhU=
+		qYkNxN1z2MjrKgu2E2VtU/dx/k4=
 		</data>
 		<key>Headers/MoEngageRealTimeTrigger-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y9MbQMcrbfsjQwfasrAF8OzU1qw=
+		V9iMZ2FxDAB0p+lTr6eMTcoZeWo=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6NvP1ggnEbvVz5Vx7M1CakrBIOU=
+		WZ5gaTVZ5FJaDRU4NuEfgFOUIQ4=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XQTQonW7put/aKhDERyO5jIOEt4=
+		o2kS/Tv/RIsmu5bu16Df5QTvOlQ=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BRfGhSKsDhKj9XLNrPGjnkXqiXg=
+		v8qzUqpUSfvXT8mfNfPaL3o/wwo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,11 +71,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PjbOyXy3oTColEOTK1OOBiJ4QhU=
+			qYkNxN1z2MjrKgu2E2VtU/dx/k4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xcKxxVdnATT/eZMtxiI50oaitGBVhBnKtoO/q2BEQNI=
+			wC8clxmDjGbSzt/7y5qmYzUnkOGpr597RTXDvPD+PoY=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRealTimeTrigger-Swift.h</key>
@@ -137,11 +137,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6NvP1ggnEbvVz5Vx7M1CakrBIOU=
+			WZ5gaTVZ5FJaDRU4NuEfgFOUIQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FqtFab5n56UpzxNNrZzhP1Z1VXSdoq5KqcYumLoaHW0=
+			huSSReAJWrMVVPkdPC6r7JTKvOYMs/RE47Yz9IZ358k=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -170,11 +170,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XQTQonW7put/aKhDERyO5jIOEt4=
+			o2kS/Tv/RIsmu5bu16Df5QTvOlQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			bgKZdC/R7Wjpb6lgJOSYwbEjeC/8bI6DEdYaH/PtroQ=
+			mZoDNFJzIKyr1waZC9ryq+z0q3IzHAkJ72yLBYsdI+w=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -203,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BRfGhSKsDhKj9XLNrPGjnkXqiXg=
+			v8qzUqpUSfvXT8mfNfPaL3o/wwo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y83113y8zUq1J+PazYzyrzC4+bRnXrAI9AbK0pR8cs0=
+			5oebKN93s0d+RqwIHHtjYUrXULvCBxVSGM4hAt9eGNA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
