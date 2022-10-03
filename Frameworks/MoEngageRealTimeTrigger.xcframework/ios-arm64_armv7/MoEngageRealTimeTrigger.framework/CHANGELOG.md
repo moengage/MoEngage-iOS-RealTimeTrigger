@@ -2,6 +2,11 @@
 ===========================
 
 ## Change Log:
+
+### Version 1.3.1 *(3rd October, 2022)*
+-------------------------------------------
+*  BugFix - Handled updating of badge count
+
 ### Version 1.3.0 *(20th July, 2022)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 8.3.0
