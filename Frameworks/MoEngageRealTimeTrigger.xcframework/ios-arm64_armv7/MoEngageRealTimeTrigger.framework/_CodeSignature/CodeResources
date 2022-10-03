@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		qYkNxN1z2MjrKgu2E2VtU/dx/k4=
+		2uFUwVx6cPSV0NxJ9u9NriQ49r8=
 		</data>
 		<key>Headers/MoEngageRealTimeTrigger-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5559U2sD5zIr5EXtjzbEHNKvRCc=
+		XM5qtUemF4ZyeHSMhrSRNg2eFUg=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0ODL+bN5IhmuGAhMu2lKyYP85ds=
+		Gq8X41Nx3DYdukgljXL5wBS8L+g=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		Qz0rT72YC1Ak6ZX5PdH0jZPZfQo=
+		ZvOvEOvQDV6Q6cvhEKFXCluoH/g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,11 +59,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qYkNxN1z2MjrKgu2E2VtU/dx/k4=
+			2uFUwVx6cPSV0NxJ9u9NriQ49r8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wC8clxmDjGbSzt/7y5qmYzUnkOGpr597RTXDvPD+PoY=
+			MmP9k7Mzy08Zjda1BryKQxi0oig1Rs/qOn9RvhKn1Ww=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRealTimeTrigger-Swift.h</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0ODL+bN5IhmuGAhMu2lKyYP85ds=
+			Gq8X41Nx3DYdukgljXL5wBS8L+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			ikjkvb2s0jqyzGGgd8d9vEFcv1MQTQSA3dRZVyOmL1s=
+			hS8RtrG0XXEb7tc91GPyngw7ZTXxz9IdExUmFFQcX2Y=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Qz0rT72YC1Ak6ZX5PdH0jZPZfQo=
+			ZvOvEOvQDV6Q6cvhEKFXCluoH/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			LFR6cGZ9kUxn40n5p6Py9BFGYBLqJLSkQsQXxJrGRL0=
+			JQuQhqvaS5r2quG3g3tQzwHawFYXSonfYp8TkD+fbxc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
