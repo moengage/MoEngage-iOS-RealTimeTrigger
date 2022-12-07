@@ -2,6 +2,10 @@
 =================================
 
 ## Change Log:
+### Version 2.0.0 *(7th December, 2022)*
+-------------------------------------------
+* All the classes and modules are prefixed with `MoEngage`.
+
 ### Version 1.4.1  *(30th November, 2022)*
 -------------------------------------------
 * BugFix: Handled removing of duplicate RTT campaigns when received via sync API.
