@@ -2,6 +2,10 @@
 =================================
 
 ## Change Log:
+### Version 1.5.0 *(12th December, 2022)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 8.5.0.
+
 ### Version 1.4.1  *(30th November, 2022)*
 -------------------------------------------
 * BugFix: Handled removing of duplicate RTT campaigns when received via sync API.
