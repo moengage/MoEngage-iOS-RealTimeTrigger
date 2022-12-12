@@ -2,6 +2,10 @@
 =================================
 
 ## Change Log:
+### Version 1.6.0 *(12th December, 2022)*
+-------------------------------------------
+* Added dSYMs files for debugging.
+
 ### Version 1.5.0 *(12th December, 2022)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 8.5.0.
