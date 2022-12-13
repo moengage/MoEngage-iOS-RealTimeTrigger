@@ -2,6 +2,9 @@
 ===========================
 
 ## Change Log:
+### Version 2.1.0 *(13th December, 2022)*
+-------------------------------------------
+* Added dSYM file support for debugging.
 
 ### Version 2.0.0 *(7th December, 2022)*
 -------------------------------------------
