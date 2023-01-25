@@ -2,6 +2,10 @@
 =================================
 
 ## Change Log:
+### Version 2.3.0 *(25th January 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.3.0.
+
 ### Version 2.2.0 *(28th December, 2022)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 9.2.0.
