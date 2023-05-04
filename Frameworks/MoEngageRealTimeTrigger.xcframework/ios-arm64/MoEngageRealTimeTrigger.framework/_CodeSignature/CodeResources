@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		sZBkg0YXp4EbPyf4rSdRsJ0ldQw=
+		WDqGjOnlISvqoZ5mEoUgjt+CIo4=
 		</data>
 		<key>Headers/MoEngageRealTimeTrigger-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TO6NKm/uN4H077I1RCRsDdRc4gY=
+		Jmq4BocqTRwrDcUEwrirINtQ5/E=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -26,23 +26,23 @@
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		HawNPLBqSyuuFjHBHrtDgPC3ne0=
+		GgchpQdbJHKAmAhAIcyGIUZUk/Q=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		lcje/kDAo3aYtPNXl594TUAdHaY=
+		lIx3N9o6B1eBUNczfH3Mn0ZCFwY=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		OPYsR55cYeUjwYD3G7r6voj7hm0=
+		CQ1TICXlI0mrXh05k3TgjX91lOM=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		lcje/kDAo3aYtPNXl594TUAdHaY=
+		lIx3N9o6B1eBUNczfH3Mn0ZCFwY=
 		</data>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vDc0WHi3XBjHgvIJGnK7SGeoGlc=
+		oQbqP9hgGsqS3tt8U9IM6T2fiuQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -53,21 +53,13 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sZBkg0YXp4EbPyf4rSdRsJ0ldQw=
-			</data>
 			<key>hash2</key>
 			<data>
-			L9shcRQXTGYAu9mhfAc3xssAwvay9UTlkR4KS4Qxp68=
+			ztlMiLwCfr/3lt5vvSpz2wBE5yn1tPCqhG5dyZmP2N4=
 			</data>
 		</dict>
 		<key>Headers/MoEngageRealTimeTrigger-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			c8Bq0xco+EbGoIH+EAqryuHs6/s=
-			</data>
 			<key>hash2</key>
 			<data>
 			4suX1YAHxoWL7pC9Ms+/xz/w5rIbZqVIvMA/wZTgjLc=
@@ -75,10 +67,6 @@
 		</dict>
 		<key>Headers/MoEngageRealTimeTrigger.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eUFa2CvLU4mMJgZWBZP8QzH2PSU=
-			</data>
 			<key>hash2</key>
 			<data>
 			ePgTq8WvP0u5YE6EJGIbw/5Skwpc+rS59dnZbAsymvk=
@@ -86,10 +74,6 @@
 		</dict>
 		<key>LICENSE</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
@@ -97,65 +81,41 @@
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HawNPLBqSyuuFjHBHrtDgPC3ne0=
-			</data>
 			<key>hash2</key>
 			<data>
-			a3rce7oEYXNVlTzFF2UK8ISG9/BWWLAWEVZcKXnpgwI=
+			TJiAoMUZrdDdmahncjLrPekXZufKZT860DznoG28vwg=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lcje/kDAo3aYtPNXl594TUAdHaY=
-			</data>
 			<key>hash2</key>
 			<data>
-			IwUiLMaSSBFxRtV1aj6UUKEohqIxKv9CoBKecdivHzE=
+			9tZtQ0724ZY9zjF+stPg1p6U9+eo+lCqyePwNTuNwWs=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OPYsR55cYeUjwYD3G7r6voj7hm0=
-			</data>
 			<key>hash2</key>
 			<data>
-			+q3LPX9rhGHCIbLOyxcD2/WKnYdWUyvB4Kf808uTpBQ=
+			opg3jj99d82RL1O26FwG49d4A2GO52wNO83NEW917VQ=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lcje/kDAo3aYtPNXl594TUAdHaY=
-			</data>
 			<key>hash2</key>
 			<data>
-			IwUiLMaSSBFxRtV1aj6UUKEohqIxKv9CoBKecdivHzE=
+			9tZtQ0724ZY9zjF+stPg1p6U9+eo+lCqyePwNTuNwWs=
 			</data>
 		</dict>
 		<key>Modules/MoEngageRealTimeTrigger.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vDc0WHi3XBjHgvIJGnK7SGeoGlc=
-			</data>
 			<key>hash2</key>
 			<data>
-			MjruVnsT2B7PmGaa63N5dtvqZt4QD6V3zTuS3vVW3pE=
+			W4g4JhOSV9b/Uf1N6jdqggsLE7apXfLoNx3uScis0h8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ucdzUVZeIqLT9olsLvth9E1ODwA=
-			</data>
 			<key>hash2</key>
 			<data>
 			i1fAL6h8yk1qiRZbl7KyI04GuRFSlV80Rf5vRkJQQ4M=
