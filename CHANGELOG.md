@@ -3,6 +3,10 @@
 
 ## Change Log:
 
+### Version 2.10.0 *(18th July 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by changing the config settings.
+
 ### Version 2.9.0 *(20th June 2023)*
 -------------------------------------------
 * iOS breakpoint issue fix by creating framework from Xcode 14.3.1.
