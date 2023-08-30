@@ -283,16 +283,18 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 @class NSString;
 
+/// Class to configure to RealTimeTrigger
 SWIFT_CLASS("_TtC23MoEngageRealTimeTrigger26MoEngageSDKRealTimeTrigger")
 @interface MoEngageSDKRealTimeTrigger : NSObject
+/// Singleton instance
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MoEngageSDKRealTimeTrigger * _Nonnull sharedInstance;)
 + (MoEngageSDKRealTimeTrigger * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-/// Method to sync RealTimeTrigger
-/// \param appID Optional Parameter indicating the MoEngage Account Identifier
+/// Method to fetch RealTimeTrigger campaigns from server.
+/// \param appID MoEngage Account identifier
 ///
-/// \param completionHandler completion block to be called after sync is performed
+/// \param completionHandler Returns true if sync is successful else false
 ///
 - (void)syncRealTimeTriggersForAppID:(NSString * _Nullable)appID andCompletionHandler:(void (^ _Nullable)(BOOL))completionHandler;
 @end
@@ -590,16 +592,18 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 @class NSString;
 
+/// Class to configure to RealTimeTrigger
 SWIFT_CLASS("_TtC23MoEngageRealTimeTrigger26MoEngageSDKRealTimeTrigger")
 @interface MoEngageSDKRealTimeTrigger : NSObject
+/// Singleton instance
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MoEngageSDKRealTimeTrigger * _Nonnull sharedInstance;)
 + (MoEngageSDKRealTimeTrigger * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-/// Method to sync RealTimeTrigger
-/// \param appID Optional Parameter indicating the MoEngage Account Identifier
+/// Method to fetch RealTimeTrigger campaigns from server.
+/// \param appID MoEngage Account identifier
 ///
-/// \param completionHandler completion block to be called after sync is performed
+/// \param completionHandler Returns true if sync is successful else false
 ///
 - (void)syncRealTimeTriggersForAppID:(NSString * _Nullable)appID andCompletionHandler:(void (^ _Nullable)(BOOL))completionHandler;
 @end
