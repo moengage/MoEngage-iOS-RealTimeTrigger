@@ -681,7 +681,8 @@
               "Final",
               "HasStorage",
               "AccessControl",
-              "ObjC"
+              "ObjC",
+              "RawDocComment"
             ],
             "isLet": true,
             "hasStorage": true,
@@ -783,7 +784,8 @@
         "moduleName": "MoEngageRealTimeTrigger",
         "declAttributes": [
           "AccessControl",
-          "ObjC"
+          "ObjC",
+          "RawDocComment"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
         "hasMissingDesignatedInitializers": true,
@@ -927,2410 +929,2417 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 286,
+      "offset": 299,
       "length": 18,
       "value": "\"RealTimeTriggers\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 345,
+      "offset": 358,
       "length": 59,
       "value": "\"RealTimeTriggers\/\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 403,
+      "offset": 416,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 434,
+      "offset": 447,
       "length": 20,
       "value": "\"MORealTimeTriggers\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 1190,
+      "offset": 1216,
       "length": 48,
       "value": "\"MoEngageRealTimeTrigger.MORealTimeTriggersData\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 1327,
+      "offset": 1353,
       "length": 51,
       "value": "\"MoEngageRealTimeTrigger.MORealTimeTriggerCampaign\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 1466,
+      "offset": 1492,
       "length": 50,
       "value": "\"MoEngageRealTimeTrigger.MORealTimeTriggerPayload\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 1603,
+      "offset": 1629,
       "length": 49,
       "value": "\"MoEngageRealTimeTrigger.MORealTimeTriggerStatus\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2609,
+      "offset": 2635,
       "length": 29,
       "value": "\"MODeviceTriggersDataManager\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2727,
+      "offset": 2753,
       "length": 18,
       "value": "\"MODeviceTriggers\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2838,
+      "offset": 2864,
       "length": 25,
       "value": "\"MODeviceTriggerCampaign\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2954,
+      "offset": 2980,
       "length": 23,
       "value": "\"MODeviceTriggerStatus\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 3069,
+      "offset": 3095,
       "length": 24,
       "value": "\"MODeviceTriggerPayload\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 3445,
+      "offset": 3471,
       "length": 36,
       "value": "\"Exception while deleting RTT files\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerFileStorage.swift",
       "kind": "StringLiteral",
-      "offset": 3507,
+      "offset": 3533,
       "length": 5,
       "value": "\"RTT\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 8,
-      "value": "\"2.10.0\""
+      "value": "\"2.11.0\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 317,
       "length": 5,
       "value": "\"RTT\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 361,
       "length": 3,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 446,
       "length": 16,
       "value": "\"last_sync_time\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 495,
       "length": 14,
       "value": "\"campaign_ids\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 543,
       "length": 14,
       "value": "\"query_params\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 590,
       "length": 13,
       "value": "\"EVENT_ATTRS\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 642,
       "length": 18,
       "value": "\"EVENT_ATTRS_CUST\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 733,
       "length": 11,
       "value": "\"campaigns\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 778,
       "length": 28,
       "value": "\"min_delay_across_campaigns\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 841,
       "length": 16,
       "value": "\"dnd_start_time\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 890,
       "length": 14,
       "value": "\"dnd_end_time\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 980,
       "length": 13,
       "value": "\"campaign_id\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1027,
       "length": 9,
       "value": "\"payload\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1072,
       "length": 11,
       "value": "\"condition\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1122,
       "length": 20,
       "value": "\"trigger_event_name\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1177,
       "length": 11,
       "value": "\"max_times\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1234,
       "length": 33,
       "value": "\"min_delay_between_notifications\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1305,
       "length": 14,
       "value": "\"last_updated\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1355,
       "length": 12,
       "value": "\"show_delay\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1406,
       "length": 16,
       "value": "\"max_sync_delay\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1469,
       "length": 24,
       "value": "\"should_support_offline\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1536,
       "length": 19,
       "value": "\"should_ignore_dnd\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1590,
       "length": 10,
       "value": "\"priority\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1631,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1670,
       "length": 8,
       "value": "\"expiry\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1711,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1809,
       "length": 17,
       "value": "\"user_in_segment\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1865,
       "length": 19,
       "value": "\"show_notification\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 1966,
       "length": 16,
       "value": "\"deviceTriggers\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2026,
       "length": 23,
       "value": "\"realTimeTriggerEvents\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2092,
       "length": 21,
       "value": "\"deviceTriggerStatus\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2148,
       "length": 14,
       "value": "\"dndStartTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2195,
       "length": 12,
       "value": "\"dndEndTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2241,
       "length": 14,
       "value": "\"globaleDelay\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2290,
       "length": 14,
       "value": "\"lastSyncTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2341,
       "length": 16,
       "value": "\"lastPostedTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2399,
       "length": 21,
       "value": "\"deviceTriggerEvents\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2465,
       "length": 16,
       "value": "\"DTdndStartTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2524,
       "length": 14,
       "value": "\"DTdndEndTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2585,
       "length": 15,
       "value": "\"DTglobalDelay\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2648,
       "length": 18,
       "value": "\"DTLastUpdateTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2714,
       "length": 16,
       "value": "\"DTLastPostTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2766,
       "length": 15,
       "value": "\"triggerStatus\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2817,
       "length": 15,
       "value": "\"triggerEvents\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2917,
       "length": 12,
       "value": "\"campaignID\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 2959,
       "length": 9,
       "value": "\"payload\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3005,
       "length": 16,
       "value": "\"updatedPayload\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3056,
       "length": 14,
       "value": "\"triggerEvent\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3107,
       "length": 16,
       "value": "\"attrConditions\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3150,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3185,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3222,
       "length": 8,
       "value": "\"expiry\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3261,
       "length": 10,
       "value": "\"priority\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3302,
       "length": 10,
       "value": "\"maxTimes\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3348,
       "length": 15,
       "value": "\"campaignDelay\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3401,
       "length": 17,
       "value": "\"lastUpdatedTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3453,
       "length": 14,
       "value": "\"triggerDelay\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3502,
       "length": 14,
       "value": "\"maxSyncDelay\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3559,
       "length": 22,
       "value": "\"shouldSupportOffline\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3619,
       "length": 17,
       "value": "\"shouldIgnoreDND\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3671,
       "length": 14,
       "value": "\"campaignType\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3760,
       "length": 12,
       "value": "\"campaignID\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3813,
       "length": 20,
       "value": "\"numberOfTimesShown\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3869,
       "length": 15,
       "value": "\"lastShownTime\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3913,
       "length": 8,
       "value": "\"expiry\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 3997,
       "length": 12,
       "value": "\"campaignID\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4037,
       "length": 7,
       "value": "\"title\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4075,
       "length": 10,
       "value": "\"subtitle\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4112,
       "length": 6,
       "value": "\"body\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4146,
       "length": 7,
       "value": "\"sound\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4181,
       "length": 7,
       "value": "\"badge\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4219,
       "length": 10,
       "value": "\"category\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4260,
       "length": 10,
       "value": "\"pushDict\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4303,
       "length": 12,
       "value": "\"alertTitle\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4351,
       "length": 15,
       "value": "\"alertSubTitle\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4398,
       "length": 11,
       "value": "\"alertBody\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4442,
       "length": 12,
       "value": "\"alertSound\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4533,
       "length": 10,
       "value": "\"moengage\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4573,
       "length": 5,
       "value": "\"cid\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4608,
       "length": 5,
       "value": "\"aps\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerConstants.swift",
       "kind": "StringLiteral",
       "offset": 4645,
       "length": 7,
       "value": "\"alert\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 438,
+      "offset": 509,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 586,
+      "offset": 657,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 591,
+      "offset": 662,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 661,
+      "offset": 732,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1023,
+      "offset": 1094,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1293,
+      "offset": 1364,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1298,
+      "offset": 1369,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 1928,
+      "offset": 1999,
       "length": 37,
       "value": "\"SDK is Disabled. RTT Failed to sync\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2012,
+      "offset": 2083,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 2223,
+      "offset": 2294,
       "length": 40,
       "value": "\"RTT service is blocked. Failed to sync\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2310,
+      "offset": 2381,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 2463,
+      "offset": 2534,
       "length": 42,
       "value": "\"SDK Flow is Disabled. RTT Failed to sync\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2552,
+      "offset": 2623,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2590,
+      "offset": 2661,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2675,
+      "offset": 2746,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 2859,
+      "offset": 2930,
       "length": 60,
       "value": "\"RTT sync will be performed only after \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 2913,
+      "offset": 2984,
       "length": 4,
       "value": "\" secs\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2970,
+      "offset": 3041,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3015,
+      "offset": 3086,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3346,
+      "offset": 3417,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3435,
+      "offset": 3506,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3797,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 3970,
+      "offset": 4060,
       "length": 29,
       "value": "\"Sync response : \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 3998,
+      "offset": 4088,
       "length": 34,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 4194,
+      "offset": 4284,
       "length": 35,
       "value": "\"RTT Campaigns synced Successfully\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4313,
+      "offset": 4403,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 4389,
+      "offset": 4479,
       "length": 29,
       "value": "\"RTT Campaigns synced failed\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4502,
+      "offset": 4592,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4572,
+      "offset": 4662,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5531,
+      "offset": 5621,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 6265,
+      "offset": 6355,
       "length": 46,
       "value": "\"Push Notification settings not provided 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 6881,
+      "offset": 6971,
       "length": 44,
       "value": "\"No RealTime trigger found for \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 6924,
+      "offset": 7014,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 7036,
+      "offset": 7126,
       "length": 41,
       "value": "\"RealTime trigger found for \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 7076,
+      "offset": 7166,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7436,
+      "offset": 7526,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7459,
+      "offset": 7549,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "FloatLiteral",
-      "offset": 7572,
+      "offset": 7662,
       "length": 6,
       "value": "1000.0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7663,
+      "offset": 7753,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 7728,
+      "offset": 7818,
       "length": 140,
       "value": "\"Failed to post the notification as delay not crossed. Last campaign was posted at \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 7862,
+      "offset": 7952,
       "length": 4,
       "value": "\" 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7921,
+      "offset": 8011,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8105,
+      "offset": 8195,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 8154,
+      "offset": 8244,
       "length": 28,
       "value": "\"Event name is invalid 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 8350,
+      "offset": 8440,
       "length": 32,
       "value": "\"Global delay check failed 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 8502,
+      "offset": 8592,
       "length": 31,
       "value": "\"Global delay check passed ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8743,
+      "offset": 8833,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 8792,
+      "offset": 8882,
       "length": 61,
       "value": "\"No active campaigns available for event - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 8847,
+      "offset": 8937,
       "length": 4,
       "value": "\" 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 8943,
+      "offset": 9033,
       "length": 57,
       "value": "\"Active campaigns available for event - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 8995,
+      "offset": 9085,
       "length": 3,
       "value": "\" ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 9672,
+      "offset": 9762,
       "length": 89,
       "value": "\"Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 9726,
+      "offset": 9816,
       "length": 9,
       "value": "\" available for event -\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 9760,
+      "offset": 9850,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 10202,
+      "offset": 10292,
       "length": 81,
       "value": "\"Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 10256,
+      "offset": 10346,
       "length": 2,
       "value": "\" is inactive -\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 10282,
+      "offset": 10372,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10330,
+      "offset": 10420,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10450,
+      "offset": 10540,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 10632,
+      "offset": 10722,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 13161,
+      "offset": 13251,
       "length": 35,
       "value": "\"User in Segment request initiated\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 13555,
+      "offset": 13645,
       "length": 66,
       "value": "\"User in Segment failed --> RealTime Trigger in Offline mode. ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 13800,
+      "offset": 13890,
       "length": 117,
       "value": "\"Campaign \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 13852,
+      "offset": 13942,
       "length": 5,
       "value": "\" shown because DND check failed and shouldIgnoreDND is true 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14021,
+      "offset": 14111,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 14097,
+      "offset": 14187,
       "length": 122,
       "value": "\"Campaign \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 14149,
+      "offset": 14239,
       "length": 3,
       "value": "\" Not shown because DND check failed and shouldIgnoreDND is false 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 14364,
+      "offset": 14454,
       "length": 82,
       "value": "\"Campaign \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 14416,
+      "offset": 14506,
       "length": 7,
       "value": "\" Offline DND check passed ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14546,
+      "offset": 14636,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 14761,
+      "offset": 14851,
       "length": 41,
       "value": "\"User in segment response  : \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 14801,
+      "offset": 14891,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15778,
+      "offset": 15868,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 16783,
+      "offset": 16873,
       "length": 44,
       "value": "\"User in Segment request body : \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 16826,
+      "offset": 16916,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17687,
+      "offset": 17777,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 17870,
+      "offset": 17960,
       "length": 68,
       "value": "\"Posting the notification for Campaign \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 17934,
+      "offset": 18024,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 17937,
+      "offset": 18027,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 18743,
+      "offset": 18833,
       "length": 80,
       "value": "\"Notification posted Successfully for campaign \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 18815,
+      "offset": 18905,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 18818,
+      "offset": 18908,
       "length": 3,
       "value": "\" ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 19569,
+      "offset": 19659,
       "length": 81,
       "value": "\"Failed to post the notification for campaign \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 19640,
+      "offset": 19730,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 19643,
+      "offset": 19733,
       "length": 4,
       "value": "\" 🛑 \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 20220,
+      "offset": 20310,
       "length": 89,
       "value": "\"Failed to fetch the Notification Request for Campaign \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 20300,
+      "offset": 20390,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 20303,
+      "offset": 20393,
       "length": 4,
       "value": "\" 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20643,
+      "offset": 20733,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20698,
+      "offset": 20788,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22322,
+      "offset": 22412,
       "length": 85,
       "value": "\"Not posting RTT of Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22378,
+      "offset": 22468,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22381,
+      "offset": 22471,
       "length": 2,
       "value": "\" as its type is Test 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22454,
+      "offset": 22544,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22522,
+      "offset": 22612,
       "length": 79,
       "value": "\"Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22559,
+      "offset": 22649,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22562,
+      "offset": 22652,
       "length": 4,
       "value": "\" type is \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22596,
+      "offset": 22686,
       "length": 3,
       "value": "\" ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22773,
+      "offset": 22863,
       "length": 142,
       "value": "\"Not posting RTT of Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22829,
+      "offset": 22919,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22832,
+      "offset": 22922,
       "length": 2,
       "value": "\" as its not active, current status is  \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 22909,
+      "offset": 22999,
       "length": 4,
       "value": "\" 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22962,
+      "offset": 23052,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23030,
+      "offset": 23120,
       "length": 62,
       "value": "\"Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23067,
+      "offset": 23157,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23070,
+      "offset": 23160,
       "length": 6,
       "value": "\" status is Active ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23370,
+      "offset": 23460,
       "length": 88,
       "value": "\"Not posting RTT of Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23426,
+      "offset": 23516,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23429,
+      "offset": 23519,
       "length": 2,
       "value": "\" it has already expired 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23505,
+      "offset": 23595,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23572,
+      "offset": 23662,
       "length": 67,
       "value": "\"Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23609,
+      "offset": 23699,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23612,
+      "offset": 23702,
       "length": 6,
       "value": "\" status is not expired ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23713,
+      "offset": 23803,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23892,
+      "offset": 23982,
       "length": 144,
       "value": "\" Not Posting RTT of campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23949,
+      "offset": 24039,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 23952,
+      "offset": 24042,
       "length": 2,
       "value": "\" as it was not synced before campaign Sync Delay Expiry \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 24030,
+      "offset": 24120,
       "length": 4,
       "value": "\" 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24087,
+      "offset": 24177,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 24167,
+      "offset": 24257,
       "length": 71,
       "value": "\"Max sync delay passed for campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 24230,
+      "offset": 24320,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 24233,
+      "offset": 24323,
       "length": 3,
       "value": "\" ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24290,
+      "offset": 24380,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24558,
+      "offset": 24648,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 24739,
+      "offset": 24829,
       "length": 100,
       "value": "\"Not Posting RTT for campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 24796,
+      "offset": 24886,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 24800,
+      "offset": 24890,
       "length": 2,
       "value": "\" as its not passed campaign delay 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24890,
+      "offset": 24980,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 24966,
+      "offset": 25056,
       "length": 67,
       "value": "\"Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 25003,
+      "offset": 25093,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 25007,
+      "offset": 25097,
       "length": 5,
       "value": "\" delay checked passed ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25164,
+      "offset": 25254,
       "length": 8,
       "value": "-9090909"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25213,
+      "offset": 25303,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 25298,
+      "offset": 25388,
       "length": 96,
       "value": "\"Not Posting RTT for campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 25355,
+      "offset": 25445,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 25359,
+      "offset": 25449,
       "length": 2,
       "value": "\" is shown max number of times 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25445,
+      "offset": 25535,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 25521,
+      "offset": 25611,
       "length": 81,
       "value": "\"Campaign - \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 25558,
+      "offset": 25648,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 25562,
+      "offset": 25652,
       "length": 6,
       "value": "\" number of times shown check passed ✅\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25678,
+      "offset": 25768,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26217,
+      "offset": 26307,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26296,
+      "offset": 26386,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 26465,
+      "offset": 26555,
       "length": 7,
       "value": "\"HH:mm\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26490,
+      "offset": 26580,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27037,
+      "offset": 27127,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27280,
+      "offset": 27370,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27595,
+      "offset": 27685,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27599,
+      "offset": 27689,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28211,
+      "offset": 28301,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28215,
+      "offset": 28305,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28386,
+      "offset": 28476,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28476,
+      "offset": 28566,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 29262,
+      "offset": 29352,
       "length": 9,
       "value": "\"default\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 29531,
+      "offset": 29621,
       "length": 77,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 29575,
+      "offset": 29665,
       "length": 1,
       "value": "\"_\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Controller\/MoEngageRealTimeTriggerController.swift",
       "kind": "StringLiteral",
-      "offset": 29607,
+      "offset": 29697,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "IntegerLiteral",
-      "offset": 445,
+      "offset": 458,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "IntegerLiteral",
-      "offset": 473,
+      "offset": 486,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "IntegerLiteral",
-      "offset": 505,
+      "offset": 518,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "IntegerLiteral",
-      "offset": 538,
+      "offset": 551,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "IntegerLiteral",
-      "offset": 573,
+      "offset": 586,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3548,
+      "offset": 3561,
       "length": 407,
       "value": "\"==========\n Campaign Details: \n \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3614,
+      "offset": 3627,
       "length": 1,
       "value": "\" \n triggerEvents:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3648,
+      "offset": 3661,
       "length": 1,
       "value": "\"\n TriggerStatus:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3693,
+      "offset": 3706,
       "length": 1,
       "value": "\"\n dndStartTime:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3744,
+      "offset": 3757,
       "length": 1,
       "value": "\"\n dndEndTime:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3791,
+      "offset": 3804,
       "length": 1,
       "value": "\"\n globalDelay:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3840,
+      "offset": 3853,
       "length": 1,
       "value": "\"\n lastSynctime:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3891,
+      "offset": 3904,
       "length": 1,
       "value": "\"\n lastPostTime:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerData.swift",
       "kind": "StringLiteral",
-      "offset": 3944,
+      "offset": 3957,
       "length": 1,
       "value": "\"\n======\n\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 301,
+      "offset": 314,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 301,
+      "offset": 314,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 301,
+      "offset": 314,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 860,
+      "offset": 899,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 896,
+      "offset": 935,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 950,
+      "offset": 989,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 983,
+      "offset": 1022,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 1089,
+      "offset": 1128,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 1123,
+      "offset": 1162,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "BooleanLiteral",
-      "offset": 1194,
+      "offset": 1233,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "BooleanLiteral",
-      "offset": 1226,
+      "offset": 1265,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 7627,
+      "offset": 7666,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "IntegerLiteral",
-      "offset": 7678,
+      "offset": 7717,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10109,
+      "offset": 10148,
       "length": 603,
       "value": "\"Campaign ID : \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10162,
+      "offset": 10201,
       "length": 1,
       "value": "\"\n triggerEvent: \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10219,
+      "offset": 10258,
       "length": 1,
       "value": "\"\n attrConditions: \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10260,
+      "offset": 10299,
       "length": 1,
       "value": "\"\n type: \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10276,
+      "offset": 10315,
       "length": 1,
       "value": "\"\n status: \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10316,
+      "offset": 10355,
       "length": 1,
       "value": "\" \n expiry: \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10357,
+      "offset": 10396,
       "length": 1,
       "value": "\"\n lastUpdatedTime:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10414,
+      "offset": 10453,
       "length": 1,
       "value": "\"\n maxTimes:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10437,
+      "offset": 10476,
       "length": 1,
       "value": "\" \n priority:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10461,
+      "offset": 10500,
       "length": 1,
       "value": "\"\n triggerDelay:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10492,
+      "offset": 10531,
       "length": 1,
       "value": "\"\n maxSyncDelay:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10523,
+      "offset": 10562,
       "length": 1,
       "value": "\"\n campaignDelay:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10556,
+      "offset": 10595,
       "length": 1,
       "value": "\"\n shouldSupportOffline:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10603,
+      "offset": 10642,
       "length": 1,
       "value": "\"\n shouldSupportDND:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10641,
+      "offset": 10680,
       "length": 1,
       "value": "\"\n Payload:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 10695,
+      "offset": 10734,
       "length": 1,
       "value": "\"\n============\n\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerCampaign.swift",
       "kind": "StringLiteral",
-      "offset": 421,
+      "offset": 460,
       "length": 31,
       "value": "\"MoEngageRealTimeTrigger.MoEngageRealTimeTriggerCampaign\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 503,
+      "offset": 516,
       "length": 31,
       "value": "\"com.moengage.rtt.data.manager\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2460,
+      "offset": 2473,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2732,
+      "offset": 2745,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 3857,
+      "offset": 3870,
       "length": 56,
       "value": "\"RTT not posted because Show Notification is false 🛑\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3973,
+      "offset": 3986,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4040,
+      "offset": 4053,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4202,
+      "offset": 4215,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerDataManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4241,
+      "offset": 4254,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
       "kind": "IntegerLiteral",
-      "offset": 307,
+      "offset": 320,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
       "kind": "IntegerLiteral",
-      "offset": 341,
+      "offset": 354,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
       "kind": "IntegerLiteral",
-      "offset": 368,
+      "offset": 381,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
       "kind": "StringLiteral",
-      "offset": 2795,
+      "offset": 2808,
       "length": 232,
       "value": "\"\n======Status====\n CampaignID:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
       "kind": "StringLiteral",
-      "offset": 2861,
+      "offset": 2874,
       "length": 18,
       "value": "\" numberOfTimesShown:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
       "kind": "StringLiteral",
-      "offset": 2922,
+      "offset": 2935,
       "length": 1,
       "value": "\"\n expiry:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
       "kind": "StringLiteral",
-      "offset": 2961,
+      "offset": 2974,
       "length": 1,
       "value": "\"\n lastShownTime:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerStatus.swift",
       "kind": "StringLiteral",
-      "offset": 3014,
+      "offset": 3027,
       "length": 1,
       "value": "\"\n========\n\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "IntegerLiteral",
-      "offset": 1870,
+      "offset": 1883,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 4605,
+      "offset": 4618,
       "length": 318,
       "value": "\"\n=== PayloadDetails =====\n campaignID:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 4679,
+      "offset": 4692,
       "length": 1,
       "value": "\"\n title:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 4716,
+      "offset": 4729,
       "length": 1,
       "value": "\"\n subtitle:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 4759,
+      "offset": 4772,
       "length": 1,
       "value": "\"\n body:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 4794,
+      "offset": 4807,
       "length": 1,
       "value": "\"\n category:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 4837,
+      "offset": 4850,
       "length": 1,
       "value": "\"\n sound:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 4874,
+      "offset": 4887,
       "length": 1,
       "value": "\"\n badge:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 4911,
+      "offset": 4924,
       "length": 6,
       "value": "\" ====== \n \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Model\/MoEngageRealTimeTriggerPayload.swift",
       "kind": "StringLiteral",
-      "offset": 220,
+      "offset": 233,
       "length": 30,
       "value": "\"MoEngageRealTimeTrigger.MoEngageRealTimeTriggerPayload\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerParser.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerParser.swift",
       "kind": "StringLiteral",
-      "offset": 5694,
+      "offset": 5707,
       "length": 40,
       "value": "\"Exception raised when parsing RTT json\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerParser.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerParser.swift",
       "kind": "StringLiteral",
-      "offset": 5785,
+      "offset": 5798,
       "length": 17,
       "value": "\"RealTimeTrigger\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerParser.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerParser.swift",
       "kind": "StringLiteral",
-      "offset": 8540,
+      "offset": 8553,
       "length": 40,
       "value": "\"Exception raised when parsing RTT json\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerParser.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/DataManager\/MoEngageRealTimeTriggerParser.swift",
       "kind": "StringLiteral",
-      "offset": 8631,
+      "offset": 8644,
       "length": 17,
       "value": "\"RealTimeTrigger\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
       "kind": "IntegerLiteral",
       "offset": 3993,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
       "kind": "IntegerLiteral",
       "offset": 4042,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
       "kind": "IntegerLiteral",
       "offset": 4081,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 4415,
       "length": 15,
       "value": "\"scheduledDate\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
       "kind": "BooleanLiteral",
       "offset": 4751,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerAnalytics.swift",
       "kind": "BooleanLiteral",
       "offset": 4781,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 577,
+      "offset": 590,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 638,
+      "offset": 651,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "StringLiteral",
-      "offset": 803,
+      "offset": 816,
       "length": 9,
       "value": "\"general\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "StringLiteral",
-      "offset": 1669,
+      "offset": 1682,
       "length": 32,
       "value": "\"failed to convert dict to json\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 1939,
+      "offset": 1952,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 1973,
+      "offset": 1986,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 2010,
+      "offset": 2023,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2033,
+      "offset": 2046,
       "length": 20,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2041,
+      "offset": 2054,
       "length": 1,
       "value": "\":\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2052,
+      "offset": 2065,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
+      "filePath": "\/Users\/rakshitha\/Documents\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageRealTimeTrigger\/Utils\/MoEngageRealTimeTriggerUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2442,
+      "offset": 2455,
       "length": 20,
       "value": "\"\/MoEDeviceTriggers\""
     }
