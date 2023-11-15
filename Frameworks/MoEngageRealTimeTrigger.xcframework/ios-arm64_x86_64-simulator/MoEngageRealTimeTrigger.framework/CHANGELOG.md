@@ -3,6 +3,10 @@
 
 ## Change Log:
 
+### Version 2.12.0 *(15th November 2023)*
+-------------------------------------------
+* Added notification impression and click API.
+
 ### Version 2.11.1 *(26th September 2023)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 9.12.0.
