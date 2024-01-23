@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
 // swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MoEngageRealTimeTrigger
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
@@ -13,6 +13,7 @@ import UIKit
 import UserNotifications
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MoEngageRealTimeTriggerDelegateHandler : MoEngageCore.MoEngageRealTimeTriggerDelegate {
   override public func trackEvent(eventName: Swift.String, eventAttribute: [Swift.String : Any], sdkInstance: MoEngageCore.MoEngageSDKInstance)
   override public func logout(sdkInstance: MoEngageCore.MoEngageSDKInstance, onCompleted: @escaping () -> ())

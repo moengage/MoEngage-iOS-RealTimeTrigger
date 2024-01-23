@@ -1,7 +1,7 @@
 framework module MoEngageRealTimeTrigger {
   umbrella header "MoEngageRealTimeTrigger.h"
-
   export *
+
   module * { export * }
 }
 
