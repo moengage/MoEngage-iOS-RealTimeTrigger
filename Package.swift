@@ -11,8 +11,8 @@ let package = Package(
             targets: ["MoEngageRealTimeTriggerSPM","MoEngageRealTimeTrigger"]),
     ],
     dependencies: [
-        .package(name: "MoEngage-iOS-SDK",url: "https://github.com/moengage/MoEngage-iOS-SDK.git", from: "9.15.0"),
-        .package(name: "MoEngageRichNotification",url: "https://github.com/moengage/MoEngage-iOS-RichNotification.git", from: "7.14.0"),
+        .package(name: "MoEngage-iOS-SDK",url: "https://github.com/moengage/MoEngage-iOS-SDK.git", from: "9.16.0"),
+        .package(name: "MoEngageRichNotification",url: "https://github.com/moengage/MoEngage-iOS-RichNotification.git", from: "7.15.0"),
         
     ],
     targets: [
