@@ -3,6 +3,10 @@
 
 ## Change Log:
 
+### Version 2.16.0 *(8th April 2024)*
+-------------------------------------------
+* Handled UserDefault storage limit
+
 ### Version 2.15.0 *(27th February 2024)*
 -------------------------------------------
 * Refactored network layer.
