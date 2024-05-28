@@ -16,12 +16,12 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.ios.deployment_target = '11.0'
 
-  s.source       = { 
-                    :git => 'https://github.com/moengage/MoEngage-iOS-RealTimeTrigger.git', 
-                    :tag => 'rtt-' + s.version.to_s 
-                    }
+  s.source       = {
+    :http => "https://github.com/moengage/MoEngage-iOS-RealTimeTrigger/releases/download/#{s.version}/MoEngageRealTimeTrigger.xcframework.zip", 
+    :sha256 => '8c5d62b30843cdd5167a91709b5a8e23ce2dce5ff2ec1874d5657601c1365b47'
+  }
                     
-  s.ios.vendored_frameworks = 'Frameworks/MoEngageRealTimeTrigger.xcframework'
+  s.ios.vendored_frameworks = 'MoEngageRealTimeTrigger.xcframework'
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit', 'ImageIO'
   s.dependency 'MoEngage-iOS-SDK', '>= 9.17.0', '< 9.18.0'
