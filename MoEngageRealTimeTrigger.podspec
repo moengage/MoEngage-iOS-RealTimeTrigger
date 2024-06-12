@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'MoEngageRealTimeTrigger'
-  s.version      = '2.16.0'
+  s.version      = '2.16.1'
   s.summary      = 'MoEngage RTT Campaigns for iOS'
   s.description  = <<-DESC
                  Real-time device triggers are push notifications that are triggered instantly in the device whenever a trigger event Is tracked with the SDK trackEvent: 
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 
   s.source       = {
     :http => "https://github.com/moengage/MoEngage-iOS-RealTimeTrigger/releases/download/#{s.version}/MoEngageRealTimeTrigger.xcframework.zip", 
-    :sha256 => '8c5d62b30843cdd5167a91709b5a8e23ce2dce5ff2ec1874d5657601c1365b47'
+    :sha256 => '015fef34161b6f6b0bc99c18ea65d4368d06aa9b39e3a6c41fe904f07263f04d'
   }
                     
   s.ios.vendored_frameworks = 'MoEngageRealTimeTrigger.xcframework'
