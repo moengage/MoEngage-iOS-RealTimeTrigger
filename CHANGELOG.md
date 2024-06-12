@@ -3,6 +3,10 @@
 
 ## Change Log:
 
+### Version 2.16.1 *(12th June 2024)*
+-------------------------------------------
+* Handled environment update with same installation.
+
 ### Version 2.16.0 *(8th April 2024)*
 -------------------------------------------
 * Handled UserDefault storage limit

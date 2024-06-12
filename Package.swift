@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "2.16.0"
-let checksum = "8c5d62b30843cdd5167a91709b5a8e23ce2dce5ff2ec1874d5657601c1365b47"
+let version = "2.16.1"
+let checksum = "015fef34161b6f6b0bc99c18ea65d4368d06aa9b39e3a6c41fe904f07263f04d"
 let package = Package(
     name: "MoEngageRealTimeTrigger",
     platforms: [.iOS(.v11)],
